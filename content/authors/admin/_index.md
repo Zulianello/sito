@@ -1,7 +1,7 @@
 ---
 title: Mattia
 role: Professor of Artificial Intelligence
-avatar_filename: prescelta-artetv.png
+avatar_filename: disegno-adrian.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
