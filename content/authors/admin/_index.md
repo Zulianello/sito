@@ -1,7 +1,7 @@
 ---
 title: Mattia Zulianello
 role: Professor of Political Science
-avatar_filename: disegno-adrian.jpg
+avatar_filename: http://www.shrinkpictures.com/processed/php1JyfJ7_c1PM.jpg
 bio: I study topics such as populism, radicalism, extremism and party competition.
 interests:
   - Artificial Intelligence
@@ -38,7 +38,7 @@ education:
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
-superuser: true
+superuser: false
 highlight_name: true
 ---
 I am an Assistant Professor of Political Science (tenure-track) in the Department of Political and Social Sciences at the University of Trieste.
