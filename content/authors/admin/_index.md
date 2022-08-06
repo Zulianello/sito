@@ -2,8 +2,7 @@
 title: Mattia
 role: Professor of Artificial Intelligence
 avatar_filename: disegno-adrian.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: I study topics such as populism, radicalism, extremism and party competition.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -42,9 +41,12 @@ email: ""
 superuser: true
 highlight_name: true
 ---
+I am an Assistant Professor of Political Science (tenure-track) in the Department of Political and Social Sciences at the University of Trieste.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am also the coordinator of the Summer and Winter Schools “[Populism: Causes, ](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[Impact](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[ and Consequences](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)” at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My work has focused on extremism, radicalism, populist parties, anti-system parties, party competition, comparative politics and mixed-method research.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My first monograph, entitled “Anti-system parties: from parliamentary breakthrough to government” was published by Routledge (Extremism and Democracy Series) in 2019, and my articles have appeared in international journals such as Electoral Studies, Government and Opposition, The International Journal of Press/Politics, Politics and Governance, Quality and Quantity – International Journal of Methodology, European Politics and Society, and Contemporary Italian Politics.
+
+I also edited and foreworded the Italian edition of the book “*Populism: a very short introduction”* (2017), written by C. Mudde and C. Rovira Kaltwasser.
