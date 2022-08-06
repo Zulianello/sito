@@ -1,7 +1,7 @@
 ---
 title: Mattia Zulianello
 role: Professor of Political Science
-avatar_filename: prescelta-artetv.png
+avatar_filename: null
 bio: I study topics such as populism, radicalism, extremism and party competition.
 interests:
   - Artificial Intelligence
