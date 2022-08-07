@@ -4,9 +4,9 @@ role: Professor of Political Science
 avatar_filename: null
 bio: I study topics such as populism, radicalism, extremism and party competition.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Populism
+  - Parties and Party Systems
+  - Polarization
 social:
   - icon: envelope
     icon_pack: fas
