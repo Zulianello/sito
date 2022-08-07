@@ -28,14 +28,14 @@ organizations:
     url: https://www.units.it/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Political Science
+      institution: Scuola Normale Superiore
+      year: 2015
+    - course: MSc Political Science & Decision-Making Processes
+      institution: University of Florence
+      year: 2011
+    - course: BSc in Political Science
+      institution: University of Trieste
       year: 2008
 email: ""
 superuser: false
