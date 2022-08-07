@@ -32,7 +32,7 @@ content:
     city: Trieste
     postcode: '34127'
     country: Italy
-    country_code: US
+    country_code: IT
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
