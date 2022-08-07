@@ -26,6 +26,7 @@ social:
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
+  - name: University of Trieste
 education:
   courses:
     - course: PhD in Artificial Intelligence
