@@ -1,7 +1,7 @@
 ---
 title: Mattia Zulianello
 role: Professor of Political Science
-avatar_filename: avatar200x200.png
+avatar_filename: avatar200x200.jpeg
 bio: I study topics such as populism, radicalism, extremism and party competition.
 interests:
   - Populism
