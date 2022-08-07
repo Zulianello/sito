@@ -26,7 +26,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mattia.zulianello@dispes.units.it
-  phone: 888 888 88 88
   address:
     street: Piazzale Europa 1
     city: Trieste
@@ -36,16 +35,15 @@ content:
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  directions: Room 108, First Floor (Dispes Wing), Piazzale Europa Main Building
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - by appointment
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
+      link: 'https://twitter.com/Zulianello_M)'
     - icon: video
       icon_pack: fas
       name: Zoom Me
