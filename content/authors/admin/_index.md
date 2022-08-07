@@ -31,7 +31,7 @@ education:
     - course: PhD in Political Science
       institution: Scuola Normale Superiore
       year: 2015
-    - course: MSc Political Science & Decision-Making Processes
+    - course: MSc Political Science & Decision-Making
       institution: University of Florence
       year: 2011
     - course: BSc in Political Science
