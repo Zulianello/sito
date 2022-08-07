@@ -1,8 +1,8 @@
 ---
 title: Mattia Zulianello
-role: Professor of Political Science
+role: Assistant Professor of Political Science
 avatar_filename: avatar.jpeg
-bio: I study topics such as populism, radicalism, extremism and party competition.
+bio: I study topics such as populism, parties and party systems, and polarization.
 interests:
   - Populism
   - Parties and Party Systems
@@ -43,10 +43,10 @@ highlight_name: true
 ---
 I am an Assistant Professor of Political Science (tenure-track) in the Department of Political and Social Sciences at the University of Trieste.
 
-I am also the coordinator of the Summer and Winter Schools “[Populism: Causes, ](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[Impact](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[ and Consequences](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)” at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
+I am also the coordinator of the Summer School “[Populism: Causes, ](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[Impact](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[ and Consequences](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)” and Winter School "[Challenges to Democratic Governance in the Western World](https://www.ispionline.it/it/ispi-school/course/calendar/le-sfide-alla-governance-democratica-nel-mondo-occidentale-modalita-web-live-35870)" at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
 
-My work has focused on extremism, radicalism, populist parties, anti-system parties, party competition, comparative politics and mixed-method research.
+My work has focused on populism, radicalism, extremism, political competition, comparative politics and mixed-method research.
 
-My first monograph, entitled “Anti-system parties: from parliamentary breakthrough to government” was published by Routledge (Extremism and Democracy Series) in 2019, and my articles have appeared in international journals such as Electoral Studies, Government and Opposition, The International Journal of Press/Politics, Politics and Governance, Quality and Quantity – International Journal of Methodology, European Politics and Society, and Contemporary Italian Politics.
+My first monograph, entitled “[Anti-system parties: from parliamentary breakthrough to government](https://www.routledge.com/Anti-System-Parties-From-Parliamentary-Breakthrough-to-Government/Zulianello/p/book/9780367730970)” was published by Routledge (Extremism and Democracy Series) in 2019, and my articles have appeared in international journals such as Electoral Studies, Government and Opposition, The International Journal of Press/Politics, Politics and Governance, Quality and Quantity – International Journal of Methodology, European Politics and Society, and Contemporary Italian Politics.
 
-I also edited and foreworded the Italian edition of the book “*Populism: a very short introduction”* (2017), written by C. Mudde and C. Rovira Kaltwasser.
+I also edited and foreworded the Italian edition of the book “*[Populism: a very short introduction](https://academic.oup.com/book/866)”* (2017), written by C. Mudde and C. Rovira Kaltwasser.
