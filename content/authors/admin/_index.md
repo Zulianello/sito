@@ -25,6 +25,7 @@ social:
     link: https://www.linkedin.com/
 organizations:
   - name: University of Trieste
+    url: https://www.units.it/
 education:
   courses:
     - course: PhD in Artificial Intelligence
