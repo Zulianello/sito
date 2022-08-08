@@ -37,7 +37,7 @@ highlight_name: true
 ---
 I am an Assistant Professor of Political Science (tenure-track) in the Department of Political and Social Sciences at the University of Trieste.
 
-I am currently co-writing a monograph for Oxford University Press (with Daniele Albertazzi and others) on the survival of the mass party among the populist radical right.
+I am currently co-writing a monograph for Oxford University Press on the survival of the mass party among the populist radical right.
 
 My work has focused on populism, radicalism, extremism, political competition, comparative politics and mixed-method research.
 
