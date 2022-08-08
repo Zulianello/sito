@@ -47,4 +47,4 @@ I also edited and foreworded the Italian edition of the book “*[Populism: a v
 
 I am also the coordinator of the Summer School “[Populism: Causes, ](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[Impact](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[ and Consequences](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)” and Winter School "[Challenges to Democratic Governance in the Western World](https://www.ispionline.it/it/ispi-school/course/calendar/le-sfide-alla-governance-democratica-nel-mondo-occidentale-modalita-web-live-35870)" at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/zulianello-june-22-cv_eng.docx" "newtab" >}}CV{{< /staticref >}}.
