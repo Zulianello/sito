@@ -22,8 +22,8 @@ organizations:
     url: https://www.units.it/
 education:
   courses:
-    - course: PhD in Political Science, Florence
-      institution: Scuola Normale Superiore
+    - course: PhD in Political Science
+      institution: Scuola Normale Superiore, Florence
       year: 2015
     - course: MSc Political Science & Decision-Making
       institution: University of Florence
