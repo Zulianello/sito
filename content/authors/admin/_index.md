@@ -45,6 +45,6 @@ My first monograph, entitled “[Anti-system parties: from parliamentary breakth
 
 I also edited and foreworded the Italian edition of the book “*[Populism: a very short introduction](https://academic.oup.com/book/866)”* (2017), written by C. Mudde and C. Rovira Kaltwasser.
 
-I am also the coordinator of the Summer School “[Populism: Causes, ](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[Impact](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)[ and Consequences](https://www.ispionline.it/it/ispi-school/course/calendar/populismo-cause-impatto-e-conseguenze-distance-learning-31238)” and Winter School "[Challenges to Democratic Governance in the Western World](https://www.ispionline.it/it/ispi-school/course/calendar/le-sfide-alla-governance-democratica-nel-mondo-occidentale-modalita-web-live-35870)" at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
+I also teach at the Summer School "Populism: Causes, Impact and Consequences" and at the Winter School "Challenges to Democratic Governance in the Western World" at the Institute for International Political Studies (ISPI) in Milan, and co-convenor of the PSA Italian Politics Specialist Group.
 
 {{< icon name="download" pack="fas" >}} Download my [CV](https://dispes.units.it/sites/dispes.units.it/files/all_pers/Zulianello%20October%2021%20CV_eng.pdf)
